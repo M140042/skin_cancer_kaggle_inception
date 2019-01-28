@@ -73,21 +73,21 @@ blocks (all remaining layers after 249 layers in the combined model) for ten epo
 | Inception v3 1st model | 73.81% | 66.05% | 0.116 |
 | Inception v3 2nd model | 70.69% | 72.18% | 0.128 |
 
-From the above table, Inception v3 2nd model clearly performs 
-better in terms of validation accuracy and f1 score. In fact, 
+From the above table, **Inception v3 2nd model** clearly performs 
+better in terms of **validation accuracy** and **f1 score**. In fact, 
 I could train more epochs to increase the performance as the 
 validation accuracy is still higher than training accuracy. 
 However, due to time constraint and limited computing resources, 
-I only managed to train a total of 13 epochs.
+I only managed to train a total of **13** epochs.
 
 # Further Improvements
 
-1.	Train more epochs for Inception v3 2nd model as validation accuracy is still higher than the training accuracy.
+1.	Train **more epochs** for Inception v3 2nd model.
 
-2.	Try out other transfer learning models such as VGG19, Resnet50 and etc.
+2.	Try out other **transfer learning models** such as VGG19, Resnet50 and etc.
 
-3.	Using SMOTE or other oversampling method to increase f1-score.
+3.	Using **SMOTE** or **other oversampling method** to increase f1-score.
 
-4.	Performs more pre-processing technique on training data.
+4.	Performs more **pre-processing** technique on training data.
 
-5.	Cross-validation can be done to find the optimal hyper-parameters.
+5.	**Cross-validation** can be done to find the optimal hyper-parameters.
