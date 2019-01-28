@@ -68,8 +68,8 @@ blocks (all remaining layers after 249 layers in the combined model) for ten epo
 3. Results
 
 # Model
-| Training accuracy | Validation Accuracy | F1 score |
-| ----------------- | ------------------- | -------- |
+| Models | Training accuracy | Validation Accuracy | F1 score |
+| ----------------- | ------------------- | -------- | -------- |
 | Inception v3 1st model | 73.81% | 66.05% | 0.116 |
 | Inception v3 2nd model | 70.69% | 72.18% | 0.128 |
 
