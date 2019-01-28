@@ -71,7 +71,7 @@ blocks (all remaining layers after 249 layers in the combined model) for ten epo
 | Models | Training accuracy | Validation Accuracy | F1 score |
 | ----------------- | ------------------- | -------- | -------- |
 | Inception v3 1st model | 73.81% | 66.05% | 0.116 |
-| Inception v3 2nd model | 70.69% | 72.18% | 0.128 |
+| Inception v3 2nd model | 70.69% | **72.18%** | **0.128** |
 
 From the above table, **Inception v3 2nd model** clearly performs 
 better in terms of **validation accuracy** and **f1 score**. In fact, 
