@@ -1,5 +1,5 @@
 # Introduction
-This is a five day’s project for Kaggle Competition: <a href='https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000'>**Skin Cancer MNIST: HAM10000</a>. 
+This is a five day’s project for Kaggle Competition: <a href='https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000'>**Skin Cancer MNIST: HAM10000**</a>. 
 
 **Skin cancer** is a common disease that affect a big amount of peoples and therefore early detection is critical. 
 
