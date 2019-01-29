@@ -38,7 +38,7 @@ I had trained two models in total.
 
 Only images have been used to train my model. 
 
-**Frist model (Inception v3 1st model):**
+**First model (Inception v3 1st model):**
 
 1.	Freeze all the layers in Inception, then connect the last layer with a Global Spatial Average Pooling layer. 
 Reason for using this layer is based on <a href='https://arxiv.org/pdf/1312.4400.pdf'>this paper</a> and also this <a href='https://www.quora.com/What-is-global-average-pooling'>link</a> as well. 
